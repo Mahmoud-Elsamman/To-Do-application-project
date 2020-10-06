@@ -1,5 +1,5 @@
 # To-Do web application project
-A single page web application for creating and managing To-Do items with user-friendly and interactive design
+A single page web application for creating and managing To-Do items with user-friendly and interactive design.
 This application based mainly on `HTML` `CSS` `vanilla JavaScript` using cutting-edge technologies such as `Webpack` `Babel.js` and Progressive Web Application techniques
 
 link: http://mytodosapp.surge.sh/
@@ -9,7 +9,7 @@ In order to use the app please make sure first to install all node modules and d
 ```
 npm install
 ```
-Then you can run the application in the development mode. This will run `webpack-dev-server` from your public folder locally in your computer.
+Then you can run the application in the development mode. This will run **webpack-dev-server** from your public folder locally in your computer.
 ```
 npm dev-server
 ```
@@ -20,7 +20,7 @@ npm build
 
 
 ## Avalaible features 
-* #### Creat new To-Do items
+* ### Creat new To-Do items
 * ### Save your To-Do items to local Storage
 * ### Check off your completed tasks
 * ### Delete an exist To-Do item entirely
