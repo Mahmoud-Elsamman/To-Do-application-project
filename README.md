@@ -1,7 +1,7 @@
 # To-Do web application project
 A single page web application for creating and managing To-Do items with user-friendly and interactive design.
 
-This application bulit mainly with `HTML` `CSS` `vanilla JavaScript` using cutting-edge technologies such as `Webpack` `Babel.js` and Progressive Web Application techniques
+This application built mainly with `HTML` `CSS` `vanilla JavaScript` using cutting-edge technologies such as `Webpack` `Babel.js` and Progressive Web Application techniques
 
 link: http://mytodosapp.surge.sh/
 
