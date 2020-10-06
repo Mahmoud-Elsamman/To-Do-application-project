@@ -1,9 +1,9 @@
 # To-Do web application project
-A web application for creating and managing To-Do items with user-friendly and interactive design. 
-This application based mainly on `HTML` `CSS` `JavaScript` using cutting-edge technologies such as `Webpack` `Babel.js` 
+A single page web application for creating and managing To-Do items with user-friendly and interactive design. 
+This application based mainly on `HTML` `CSS` `vanilla JavaScript` using cutting-edge technologies such as `Webpack` `Babel.js` and Progressive Web Application techniques
 
-## Running the service locally
-In order to use the app please make sure first to install all node modules and dependencies
+## Running the application locally
+In order to use the app please make sure first to install all node modules and dependencies.
 ```
 npm install
 ```
