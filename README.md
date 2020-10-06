@@ -1,5 +1,6 @@
 # To-Do web application project
 A web application for creating and managing To-Do items with user-friendly and interactive design. 
+This aplication based mainly on `HTML` `CSS` `JavaScript` with cutting-edge technologies such as `Webpack` `Babel.js` 
 
 # Avalaible features 
 * ### Creat new To-Do items
