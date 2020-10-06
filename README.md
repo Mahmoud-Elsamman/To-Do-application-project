@@ -4,11 +4,17 @@ This application based mainly on `HTML` `CSS` `JavaScript` using cutting-edge te
 
 ## Running the service locally
 In order to use the app please make sure first to install all node modules and dependencies
-`npm install`
-Then you can run the application in the development mode. This will run `webpack-dev-server` in your public folder locally in your computer.
-`npm dev-server`
-Or you can build the application in the production mode. 
-`npm build`
+```
+npm install
+```
+Then you can run the application in the development mode. This will run `webpack-dev-server` from your public folder locally in your computer.
+```
+npm dev-server
+```
+Once you finished you can build the application in the production mode. 
+```
+npm build
+```
 
 
 ## Avalaible features 
