@@ -1,29 +1,38 @@
-# To-Do web application project
+# To-Do web application 
+
 A single page web application for creating and managing To-Do items with user-friendly and interactive design.
 
-This application built mainly with `HTML` `CSS` `vanilla JavaScript` using cutting-edge technologies such as `Webpack` `Babel.js` and Progressive Web Application techniques
+The application built with `vanilla JavaScript` using cutting-edge technologies such as `Webpack` `Babel.js`.
 
 link: http://mytodosapp.surge.sh/
 
-## Running the application locally
-In order to use the app please make sure first to install all node modules and dependencies.
+## Running the application locally:
+
+### Installation
+Execute the following command to install the required node modules third party libraries:
 ```
 npm install
 ```
-Then you can run the application in the development mode. This will run **webpack-dev-server** from your public folder locally in your computer.
-```
-npm dev-server
-```
-Once you finished you can build the application in the production mode. 
-```
-npm build
-```
+### Development mode
 
+Use the application in the development environment.with a **webpack dev server** running on port `8080`, run this `dev-server` command.
+```
+npm run dev-server
+```
+Go to `http://localhost:8080/` to view the app.
 
-## Avalaible features 
-* ### Creat new To-Do items
-* ### Save your To-Do items to local Storage
-* ### Check off your completed tasks
-* ### Delete an exist To-Do item entirely
-* ### Filter your To-Do items 
-* ### Hide completed To-Do items 
+### Production mode
+
+Once you finished you can build the application in the production mode, using the `build` command.
+
+```
+npm run build
+```
+### Features:
+
+* Creat new To-Do items
+* You can Save your To-Do items to local Storage
+* Done with that, you can check off your completed tasks
+* Or you can delete the To-Do item entirely
+* You can filter your To-Do items 
+* And you can hide the To-Do items that have done!!
